@@ -33,17 +33,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnexusG&layout=compact&theme=dark&hide=javascript,html,Scilab,Ruby&langs_count=8)](https://github.com/SnexusG/github-readme-stats)
 
 
-
-
----
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SnexusG&show_icons=true&hide_border=true" />
-
-</details>
-
 [hackerrank]: https://www.hackerrank.com/SnexusG
 [codeforces]: https://codeforces.com/profile/SnexusG
 [twitter]: https://twitter.com/SwapnilGore029
