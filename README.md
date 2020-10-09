@@ -3,7 +3,7 @@
 ## I'm currently pursuing my undergrad in EXTC
 
 - 🔭 I’m currently working on a Remote Pulse Oxymeter!
-- 🌱 Practising competitive coding on [codeforces][codeforces] and [hackerrank][hackerrank] regularly
+- 🌱 Practising competitive coding on [codeforces][codeforces], [atcoder][atcoder] and [hackerrank][hackerrank] regularly
 - ⚡ Good experience in android development
 - 👯 I’m looking to connect with people interested in competitive coding and ML/AI
 
@@ -37,3 +37,4 @@
 [codeforces]: https://codeforces.com/profile/SnexusG
 [twitter]: https://twitter.com/SwapnilGore029
 [linkedin]: https://www.linkedin.com/in/swapnil-gore-2902/
+[atcoder]: https://atcoder.jp/users/SnexusG
