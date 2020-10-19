@@ -29,10 +29,6 @@
 ---
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnexusG&layout=compact&theme=dark&hide=javascript,html,Scilab,Ruby&langs_count=8)](https://github.com/SnexusG/github-readme-stats)
-
-
 [hackerrank]: https://www.hackerrank.com/SnexusG
 [codeforces]: https://codeforces.com/profile/SnexusG
 [twitter]: https://twitter.com/SwapnilGore029
