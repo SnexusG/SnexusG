@@ -1,6 +1,6 @@
 ### Hello! I am Swapnil Gore 👋
 
-## I'm currently pursuing my undergrad in EXTC
+## Looking for open source android projects to contribute to!
 
 - 🔭 I’m currently working on a Remote Pulse Oxymeter!
 - 🌱 Practising competitive coding on [codeforces][codeforces], [atcoder][atcoder] and [hackerrank][hackerrank] regularly
