@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on a Remote Pulse Oxymeter!
 - 🌱 Practising competitive coding on [codeforces][codeforces], [atcoder][atcoder] and [hackerrank][hackerrank] regularly
-- ⚡ Good experience in android development
-- 👯 I’m looking to connect with people interested in competitive coding and ML/AI
+- ⚡ Good experience in native android development
 
 ### Connect with me:
 
