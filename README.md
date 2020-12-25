@@ -4,7 +4,6 @@
 
 - 🔭 Interested in Android Development and Competitive Programming
 - 🌱 Practising competitive coding on [codeforces][codeforces], [atcoder][atcoder] and [hackerrank][hackerrank] regularly
-- ⚡ Good experience in native android development
 
 ### Connect with me:
 
