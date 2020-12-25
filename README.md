@@ -2,7 +2,7 @@
 
 ## Looking for open source android projects to contribute to!
 
-- 🔭 I’m currently working on a Remote Pulse Oxymeter!
+- 🔭 Interested in Android Development and Competitive Programming
 - 🌱 Practising competitive coding on [codeforces][codeforces], [atcoder][atcoder] and [hackerrank][hackerrank] regularly
 - ⚡ Good experience in native android development
 
