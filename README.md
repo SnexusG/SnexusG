@@ -3,7 +3,7 @@
 ## Looking for open source android projects to contribute to!
 
 - 🔭 Interested in Android Development and Competitive Programming
-- 🌱 Practising competitive coding on [codeforces][codeforces], [atcoder][atcoder] and [hackerrank][hackerrank] regularly
+- 🌱 Practising competitive coding on [codeforces][codeforces], [leetcode][leetcode] and [hackerrank][hackerrank] regularly
 
 ### Connect with me:
 
@@ -32,3 +32,4 @@
 [twitter]: https://twitter.com/SwapnilGore029
 [linkedin]: https://www.linkedin.com/in/swapnil-gore-2902/
 [atcoder]: https://atcoder.jp/users/SnexusG
+[leetcode] : https://leetcode.com/SNexusG/
