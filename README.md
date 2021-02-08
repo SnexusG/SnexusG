@@ -32,4 +32,4 @@
 [twitter]: https://twitter.com/SwapnilGore029
 [linkedin]: https://www.linkedin.com/in/swapnil-gore-2902/
 [atcoder]: https://atcoder.jp/users/SnexusG
-[leetcode] : https://leetcode.com/SNexusG/
+[leetcode]: https://leetcode.com/SNexusG/
