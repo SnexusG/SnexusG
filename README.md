@@ -5,7 +5,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-## My portfolio website[mywebsite]
+## [My portfolio website][mywebsite]
 
 ### Languages and Tools:
 
@@ -29,4 +29,4 @@
 [linkedin]: https://www.linkedin.com/in/swapnil-gore-2902/
 [atcoder]: https://atcoder.jp/users/SnexusG
 [leetcode]: https://leetcode.com/SNexusG/
-[mywebsite]: snexusg.github.io
+[mywebsite]: https://snexusg.github.io
